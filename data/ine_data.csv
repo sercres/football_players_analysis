@@ -1,0 +1,5 @@
+Sex;Adult body mass index;Age;Total
+Men;Underweight (BMI < 18.5 kg/m2);TOTAL;153.1
+Men;Normal weight (18.5 kg/m2 <= BMI < 25 kg/m2);TOTAL;6862.9
+Men;Overweight (25 kg/m2 <= BMI < 30 kg/m2);TOTAL;8160.2
+Men;Obesity (BMI >= 30 kg/m2);TOTAL;2998.9
